@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Bubble Milk Tea",
+        "type": "Classic Drinks",
+        "price": "$20 (S), $30 (M), $35 (L)",
+        "image": "assets/bubble-milktea.png"
+    },
+    {
+        "name": "Iced Latte",
+        "type": "Coffee",
+        "price": "$20 (S), $15 (M), $30 (L)",
+        "image": "assets/iced-latte.jpg"
+    },
+    {
+        "name": "Cappuccino",
+        "type": "Coffee",
+        "price": "$30 (S), $35 (M), $40 (L)",
+        "image": "assets/cappuccino.jpeg"
+    },
+    {
+        "name": "Matcha Latte",
+        "type": "Coffee",
+        "price": "$35 (S), $40 (M), $45 (L)",
+        "image": "assets/matcha-latte.jpeg"
+    },
+    {
+        "name": "Earl Grey Tea",
+        "type": "Tea",
+        "price": "$30 (S), $35 (M), $40 (L)",
+        "image": "assets/earl-grey-tea.jpeg"
+    },
+    {
+        "name": "Strawberry Acai",
+        "type": "Juice",
+        "price": "$20 (S), $25 (M), $30 (L)",
+        "image": "assets/strawberry-acai-with-lemonade.jpeg"
+    },
+    {
+        "name": "Mango Dragonfruit",
+        "type": "Juice",
+        "price": "$35 (S), $40 (M), $45 (L)",
+        "image": "assets/mango-dragonfruit-with-lemonade.jpeg"
+    },
+    {
+        "name": "Iced Lemon Tea",
+        "type": "Tea",
+        "price": "$25 (S), $30 (M), $35 (L)",
+        "image": "assets/iced-lemon-tea.png"
+    },
+    {
+        "name": "Hot Lemon Tea",
+        "type": "Tea",
+        "price": "$25 (S), $30 (M), $35 (L)",
+        "image": "assets/hot-lemon-tea.png"
+    },
+    {
+        "name": "Caramel Macchiato",
+        "type": "Coffee",
+        "price": "$35 (S), $40 (M), $45 (L)",
+        "image": "assets/caramel_macchiato.jpeg"
+    },
+    {
+        "name": "Matcha Espresso",
+        "type": "Coffee",
+        "price": "$35 (S), $40 (M), $45 (L)",
+        "image": "assets/matcha_espresso.jpeg"
+    },
+    {
+        "name": "Iced Americano",
+        "type": "Coffee",
+        "price": "$25 (S), $30 (M), $35 (L)",
+        "image": "assets/iced-americano.png"
+    }
+]
